@@ -482,9 +482,9 @@ LN(x) = γ × (x - μ)/σ + β
 
 ## 📊 可视化工具推荐
 
-- 🔗 [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
-- 🔗 [BertViz](https://github.com/jessevig/bertviz) - 可视化注意力
-- 🔗 [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/)
+- 🔗 [Transformer Explainer](https://poloclub.github.io/transformer-explainer/) - 交互式Transformer可视化工具
+- 🔗 [BertViz](https://github.com/jessevig/bertviz) - 可视化注意力权重分布
+- 🔗 [The Annotated Transformer](http://nlp.seas.harvard.edu/annotated-transformer/) - 带注释的代码实现
 
 ---
 

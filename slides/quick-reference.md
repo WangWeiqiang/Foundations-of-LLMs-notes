@@ -290,21 +290,21 @@ Target modules: q_proj, v_proj
 ## 🔗 有用的工具
 
 ### 训练框架
-- 🔗 [Transformers (HuggingFace)](https://github.com/huggingface/transformers)
-- 🔗 [DeepSpeed](https://github.com/microsoft/DeepSpeed)
-- 🔗 [PyTorch](https://pytorch.org/)
+- 🔗 [Transformers (HuggingFace)](https://github.com/huggingface/transformers) - 最流行的预训练模型库
+- 🔗 [DeepSpeed](https://github.com/microsoft/DeepSpeed) - 大规模模型训练加速库
+- 🔗 [PyTorch](https://pytorch.org/) - 深度学习框架
 
 ### PEFT库
-- 🔗 [PEFT (HuggingFace)](https://github.com/huggingface/peft)
-- 🔗 [LoRA Implementation](https://github.com/microsoft/LoRA)
+- 🔗 [PEFT (HuggingFace)](https://github.com/huggingface/peft) - 参数高效微调工具集
+- 🔗 [LoRA Implementation](https://github.com/microsoft/LoRA) - LoRA官方实现
 
 ### 可视化工具
-- 🔗 [TensorBoard](https://www.tensorflow.org/tensorboard)
-- 🔗 [Weights & Biases](https://wandb.ai/)
+- 🔗 [TensorBoard](https://www.tensorflow.org/tensorboard) - 训练过程可视化
+- 🔗 [Weights & Biases](https://wandb.ai/) - 实验跟踪和协作平台
 
 ### 数据集
-- 🔗 [HuggingFace Datasets](https://huggingface.co/datasets)
-- 🔗 [Common Crawl](https://commoncrawl.org/)
+- 🔗 [HuggingFace Datasets](https://huggingface.co/datasets) - 海量NLP数据集
+- 🔗 [Common Crawl](https://commoncrawl.org/) - 大规模网页爬取数据
 
 ---
 

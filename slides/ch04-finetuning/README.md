@@ -633,10 +633,10 @@ Few-shot通常效果更好
 
 ## 📚 延伸阅读
 
-- 📄 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
-- 📄 [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
-- 📄 [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
-- 📄 [Chain-of-Thought Prompting Elicits Reasoning](https://arxiv.org/abs/2201.11903)
+- 📄 [LoRA: Low-Rank Adaptation of Large Language Models (2021)](https://arxiv.org/abs/2106.09685)
+- 📄 [Parameter-Efficient Transfer Learning for NLP (2019)](https://arxiv.org/abs/1902.00751)
+- 📄 [The Power of Scale for Parameter-Efficient Prompt Tuning (2021)](https://arxiv.org/abs/2104.08691)
+- 📄 [Chain-of-Thought Prompting Elicits Reasoning (2022)](https://arxiv.org/abs/2201.11903)
 
 ---
 
