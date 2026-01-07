@@ -2,8 +2,9 @@
 
 用幻灯片把学习过程中遇到的知识点以更加通俗易懂的方式解读出来。
 
-阅读书籍请前往 https://github.com/ZJU-LLMs/Foundations-of-LLMs
+> **无上甚深微妙法，百千万劫难遭遇；我今见闻得受持，愿解如来真实义**
 
+阅读书籍请前往 https://github.com/ZJU-LLMs/Foundations-of-LLMs
 
 ## 第一章 语言模型基础
 
