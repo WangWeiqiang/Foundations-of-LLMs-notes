@@ -20,5 +20,5 @@ By 王维强
 
 1. [n 阶马尔可夫假设 - 理想与近似](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/n%20%E9%98%B6%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%81%87%E8%AE%BE%20-%20%E7%90%86%E6%83%B3%E4%B8%8E%E8%BF%91%E4%BC%BC.pdf)
 2. [极大似然估计 - 从数据到洞见](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E6%9E%81%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1.pdf)
-3. 前馈神经网络(FNN) - 高效但健忘的机器
-4. 循环神经网络(RNN) - 前事不忘后事之师
+3. [前馈神经网络(FNN) - 高效但健忘的机器](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E5%89%8D%E9%A6%88%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%EF%BC%88FNN%EF%BC%89%20-%20%E9%AB%98%E6%95%88%E4%BD%86%E5%81%A5%E5%BF%98%E7%9A%84%E6%9C%BA%E5%99%A8.pdf)
+4. [循环神经网络(RNN) - 前事不忘后事之师]()
