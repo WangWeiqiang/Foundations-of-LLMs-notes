@@ -25,3 +25,4 @@ By 王维强
 5. [解构 RNN 语言模型 - 溺爱与纠偏如何取舍](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E8%A7%A3%E6%9E%84RNN%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B.pdf)
 6. [注意力机制(_Attention_) - 开启上帝视角](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E6%B3%A8%E6%84%8F%E5%8A%9B%E6%9C%BA%E5%88%B6%20-%20%E5%BC%80%E5%90%AF%E4%B8%8A%E5%B8%9D%E8%A7%86%E8%A7%92.pdf)
 7. [全连接前馈层(FFL) - 模型的知识大脑](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E5%85%A8%E8%BF%9E%E6%8E%A5%E5%89%8D%E9%A6%88%E7%BD%91%E7%BB%9C%20-%20%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%9F%A5%E8%AF%86%E5%A4%A7%E8%84%91.pdf)
+8. 层正则化 - 驯服神经网络的艺术
