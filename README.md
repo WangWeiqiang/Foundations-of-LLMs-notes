@@ -34,3 +34,4 @@ By 王维强
 12. [随机采样 - 语言的艺术与逻辑](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E9%9A%8F%E6%9C%BA%E9%87%87%E6%A0%B7%20-%20%E8%AF%AD%E8%A8%80%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E9%80%BB%E8%BE%91.pdf)
 
 ## 第二章 大语言模型架构
+。。。陆续更新
