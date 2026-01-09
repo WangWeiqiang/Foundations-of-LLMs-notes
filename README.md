@@ -1,6 +1,6 @@
 # 《大模型基础》（毛玉仁，高云君等著）学习笔记
 
-![Note cover](assets/note-cover.png)
+<img src="assets/note-cover.png" alt="Note cover" width="480">
 
 > # **无上甚深微妙法，百千万劫难遭遇；**
 >
