@@ -1,5 +1,7 @@
 # 《大模型基础》（毛玉仁，高云君等著）学习笔记
 
+![Note cover](assets/note-cover.png)
+
 > # **无上甚深微妙法，百千万劫难遭遇；**
 >
 > # **我今见闻得受持，愿解如来真实义。**
@@ -30,3 +32,5 @@ By 王维强
 10. [Transformer 架构下语言模型的训练和推演](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/Transformer%E6%9E%B6%E6%9E%84%E4%B8%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AE%AD%E7%BB%83%E4%B8%8E%E6%8E%A8%E6%BC%94.pdf)
 11. [贪心搜索还是波束搜索 - 解码策略对决](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E8%B4%AA%E5%BF%83%E6%90%9C%E7%B4%A2%E8%BF%98%E6%98%AF%E6%B3%A2%E6%9D%9F%E6%90%9C%E7%B4%A2%20-%20%E8%A7%A3%E7%A0%81%E7%AD%96%E7%95%A5%E5%AF%B9%E5%86%B3.pdf)
 12. [随机采样 - 语言的艺术与逻辑](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/%E9%9A%8F%E6%9C%BA%E9%87%87%E6%A0%B7%20-%20%E8%AF%AD%E8%A8%80%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E9%80%BB%E8%BE%91.pdf)
+
+## 第二章 大语言模型架构
