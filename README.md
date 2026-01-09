@@ -35,6 +35,6 @@ By 王维强
 
 ## 第二章 大语言模型架构
 
-1. Transformer 三大架构比较
+1. [Transformer 三大架构比较](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%20%E4%B8%89%E5%A4%A7%E6%9E%B6%E6%9E%84.pdf)
 
 。。。陆续更新
