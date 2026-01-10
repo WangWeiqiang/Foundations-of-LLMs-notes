@@ -37,6 +37,6 @@ By 王维强
 
 1. [Transformer 三大架构比较](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%20%E4%B8%89%E5%A4%A7%E6%9E%B6%E6%9E%84.pdf)
 2. [注意力矩阵与掩码机制](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9F%A9%E9%98%B5%E4%B8%8E%E6%8E%A9%E7%A0%81%E6%9C%BA%E5%88%B6.pdf)
-3. [BERT 模型架构解析]()
+3. [BERT 模型架构解析](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BERT%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.pdf)
 
 。。。陆续更新
