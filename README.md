@@ -44,7 +44,7 @@ By 王维强
    1. [T5 语言模型 - 万物皆可 text to text](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/T5%20-%20%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AFtext%20to%20text.pdf)
    2. [BART 语言模型 - 破坏与重生](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BART%20-%20%E7%A0%B4%E5%9D%8F%E4%B8%8E%E9%87%8D%E7%94%9F.pdf)
 5. Decoder-only 架构
-   1. [GPT 1 - 生成式大模型的开山宗师]()
+   1. [GPT 1 - 生成式大模型的开山宗师](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/GPT-1%20-%20%E7%94%9F%E6%88%90%E5%BC%8F%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%BC%80%E5%B1%B1%E5%AE%97%E5%B8%88.pdf)
    2. [GPT 2 - 暴力美学的崛起]()
    3. GPT 3
    4. InstructGPT
