@@ -37,7 +37,22 @@ By 王维强
 
 1. [Transformer 三大架构比较](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/Transformer%20%E4%B8%89%E5%A4%A7%E6%9E%B6%E6%9E%84.pdf)
 2. [注意力矩阵与掩码机制](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/%E6%B3%A8%E6%84%8F%E5%8A%9B%E7%9F%A9%E9%98%B5%E4%B8%8E%E6%8E%A9%E7%A0%81%E6%9C%BA%E5%88%B6.pdf)
-3. [BERT 模型架构解析](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BERT%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.pdf)
-4. [BERT 的继任者们](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BERT%E7%9A%84%E7%BB%A7%E6%89%BF%E8%80%85%E4%BB%AC.pdf)
+3. Encoder-only 架构
+   1. [BERT 模型架构解析](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BERT%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84%E8%A7%A3%E6%9E%90.pdf)
+   2. [BERT 的继任者们](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/BERT%E7%9A%84%E7%BB%A7%E6%89%BF%E8%80%85%E4%BB%AC.pdf)
+4. Encoder-Decoder 架构
+   1. T5 语言模型 - 万物皆可 text to text
+   2. BART 语言模型 - 破坏与重生
+5. Decoder-only 架构
+   1. GPT 1 - 生成式大模型的开山宗师
+   2. GPT 2 - 暴力美学的崛起
+   3. GPT 3
+   4. InstructGPT
+   5. ChatGPT
+   6. LLAMA 系列模型
+6. 非 Transformer 架构
+   1. 状态空间模型 SSM
+   2. RWKV
+   3. Mamba
 
 。。。陆续更新
