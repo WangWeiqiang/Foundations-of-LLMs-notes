@@ -48,7 +48,7 @@ By 王维强
    2. [GPT 2 - 暴力美学的崛起](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/GPT-2%20-%20%E6%9A%B4%E5%8A%9B%E7%BE%8E%E5%AD%A6%E7%9A%84%E5%B4%9B%E8%B5%B7.pdf)
    3. [GPT 3 -大力出奇迹的全能巨人](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/GPT-3%20-%20%E5%A4%A7%E5%8A%9B%E5%87%BA%E5%A5%87%E8%BF%B9%E7%9A%84%E5%85%A8%E8%83%BD%E5%B7%A8%E4%BA%BA.pdf)
    4. [InstructGPT - 大模型的对齐指南](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/InstructGPT%20-%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%AF%B9%E9%BD%90%E6%8C%87%E5%8D%97.pdf)
-   5. LLAMA 系列模型 - 超越架构的进阶之路
+   5. LLAMA 系列模型 - 大模型届的安卓式开源革命
 6. [非 Transformer 架构大模型的进阶之路](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/%E9%9D%9ETransformer%E6%9E%B6%E6%9E%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF.pdf)
 
 ## 第三章 Prompt 工程
