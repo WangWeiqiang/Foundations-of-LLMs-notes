@@ -54,6 +54,6 @@ By 王维强
 ## 第三章 Prompt 工程
 
 1. [Prompt 工程 - 与大模型沟通的技巧](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/Prompt%20%E5%B7%A5%E7%A8%8B%20-%20%E4%B8%8E%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B2%9F%E9%80%9A%E7%9A%84%E6%8A%80%E5%B7%A7.pdf)
-2. 上下文学习 - 原理与策略
+2. [上下文学习 - 原理与策略](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E4%B8%8A%E4%B8%8B%E6%96%87%E5%AD%A6%E4%B9%A0-%E5%8E%9F%E7%90%86%E4%B8%8E%E7%AD%96%E7%95%A5.pdf)
 
 。。。陆续更新
