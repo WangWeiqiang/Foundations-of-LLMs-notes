@@ -62,5 +62,6 @@ By 王维强
 7. [心理暗示 - 大模型的催眠术](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E5%BF%83%E7%90%86%E6%9A%97%E7%A4%BA%20-%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%82%AC%E7%9C%A0%E6%9C%AF.pdf)
 8. [提示工程 - 不仅仅是文字游戏](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%20-%20%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F.pdf)
 
-##第四章 参数高效微调##
+## 第四章 参数高效微调
+
 。。。陆续更新
