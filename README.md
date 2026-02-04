@@ -58,5 +58,8 @@ By 王维强
 3. [思维链 - 大模型提示工程的创新之举](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E6%80%9D%E7%BB%B4%E9%93%BE%20-%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%9B%E6%96%B0%E7%9A%84Prompt%20%E8%8C%83%E5%BC%8F.pdf)
 4. [大语言模型提示词的编写规范](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83.pdf)
 5. [合理归纳提问 - 做大模型的指挥官](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E4%B8%89%E7%AB%A0%20Prompt%E5%B7%A5%E7%A8%8B/%E5%90%88%E7%90%86%E5%BD%92%E7%BA%B3%E6%8F%90%E9%97%AE%20-%20%E5%81%9A%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E6%8C%87%E6%8C%A5%E5%AE%98.pdf)
+6. 酌情使用思维链 - 看大模型和问题下菜碟
+7. 心里暗示 - 大模型的催眠术
+8. 提示工程 - 不仅仅是文字游戏
 
 。。。陆续更新
