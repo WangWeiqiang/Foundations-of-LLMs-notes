@@ -66,5 +66,8 @@ By 王维强
 
 1. [参数高效微调概要](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%8F%82%E6%95%B0%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83/%E5%8F%82%E6%95%B0%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83%E6%A6%82%E8%A6%81.pdf)
 2. [参数附加微调 - 小成本适配之道](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%8F%82%E6%95%B0%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83/%E9%99%84%E5%8A%A0%E5%BE%AE%E8%B0%83-%E5%B0%8F%E6%88%90%E6%9C%AC%E9%80%82%E9%85%8D%E4%B9%8B%E9%81%93.pdf)
+   1. 加在输入 - 数学调料包的魔法
+   2. 加在模型 - 大模型的微创手术
+   3. 加在输出 - 大模型的黑盒操控术
 
 。。。陆续更新
