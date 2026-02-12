@@ -64,7 +64,7 @@ By 王维强
 
 ## 第四章 参数高效微调
 
-1. 参数高效微调概要
-2. 参数附加微调 - 小成本适配之道
+1. [参数高效微调概要](https://github.com/WangWeiqiang/Foundations-of-LLMs-notes/blob/main/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E5%8F%82%E6%95%B0%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83/%E5%8F%82%E6%95%B0%E9%AB%98%E6%95%88%E5%BE%AE%E8%B0%83%E6%A6%82%E8%A6%81.pdf)
+2. [参数附加微调 - 小成本适配之道]()
 
 。。。陆续更新
